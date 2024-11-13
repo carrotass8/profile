@@ -33,7 +33,7 @@ body {
 .container {
     max-width: 400px;
     border-radius: 0.75rem;
-    padding: 2rem;
+    padding: 3rem;
     margin: 2rem;
     background-color: var(--colorcontainer);
     text-align: center;
@@ -47,14 +47,14 @@ body {
 }
 
 .container h1 {
-    font-size: 1.75rem;
+    font-size: 2rem;
     font-weight: 400;
 }
 
 .container .location {
     color: var(--green);
     margin: .5rem 0 1.5rem;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .container .desc {
