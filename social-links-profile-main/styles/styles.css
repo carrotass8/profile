@@ -34,7 +34,7 @@ body {
     max-width: 400px;
     border-radius: 0.75rem;
     padding: 3rem;
-    margin: 2rem;
+    margin: 0;
     background-color: var(--colorcontainer);
     text-align: center;
     color: white;
